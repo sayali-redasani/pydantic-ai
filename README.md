@@ -8,7 +8,7 @@ This script utilizes OpenAI's API and Pydantic for data validation and settings 
 - OpenAI API key
 - Required Python packages (install via pip):
   ```
-  pydantic
+  pydantic-ai
   openai
   ```
 
