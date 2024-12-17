@@ -33,3 +33,7 @@ python agent.py
 ```
 
 Make sure you have set up your OpenAI API key before running the script.
+
+## Output Screenshots
+![Sample Output](./sample_output.png)
+*Screenshot showing the extracted patient information for all three samples*
